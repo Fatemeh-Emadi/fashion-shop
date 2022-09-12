@@ -1,0 +1,34 @@
+[
+{"type":"header","version":"5.0.2","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"clothes_shop"},
+{"type":"table","name":"products","database":"clothes_shop","data":
+[
+{"id":"1","name":"wemon's dress","description":"summer short dress","image":"img\/wemon\/k1.jpg","price":"100","price_off":"87","count":"3","category_id":"1","created_at":"2022-07-20 20:09:09","updated_at":"2022-08-01 09:43:27"},
+{"id":"23","name":"kid's set","description":"boy's T-shirt and short set","image":"img\/kids\/a3.jpg","price":"46","price_off":"37","count":"3","category_id":"3","created_at":"2022-09-12 18:01:26","updated_at":"2022-09-12 18:01:26"},
+{"id":"2","name":"shirt","description":"wemon's Stained T-shirt","image":"img\/wemon\/k2.jpg","price":"70","price_off":"64","count":"5","category_id":"1","created_at":"2022-07-20 20:13:25","updated_at":"2022-07-20 20:13:25"},
+{"id":"22","name":"kid's sweatshirt","description":"Girly autmn's sweatshirt","image":"img\/kids\/a2.jpg","price":"43","price_off":"40","count":"2","category_id":"3","created_at":"2022-09-12 18:01:26","updated_at":"2022-09-12 18:01:26"},
+{"id":"3","name":"T-shirt","description":"Cute white wemon's T-shirt","image":"img\/wemon\/k3.jpg","price":"56","price_off":"50","count":"2","category_id":"1","created_at":"2022-07-20 20:16:01","updated_at":"2022-07-20 20:16:01"},
+{"id":"20","name":"sweatshirt","description":"Men's sweatshirt","image":"img\/men\/a6.jpg","price":"100","price_off":"95","count":"4","category_id":"2","created_at":"2022-09-02 20:23:07","updated_at":"2022-09-02 20:23:07"},
+{"id":"21","name":"kid's dress","description":"Girly short dress","image":"img\/kids\/a1.jpg","price":"35","price_off":"32","count":"4","category_id":"3","created_at":"2022-09-12 18:01:26","updated_at":"2022-09-12 18:01:26"},
+{"id":"4","name":"Top","description":"Wemon's top butterfly model","image":"img\/wemon\/k4.jpg","price":"41","price_off":"35","count":"10","category_id":"1","created_at":"2022-07-20 20:25:02","updated_at":"2022-07-20 20:25:02"},
+{"id":"5","name":"jeans","description":"\r\n\r\nWemon's  dark blue dress\r\n\r\n","image":"img\/wemon\/k5.jpg","price":"40","price_off":"38","count":"7","category_id":"1","created_at":"2022-07-20 20:38:24","updated_at":"2022-07-20 20:38:24"},
+{"id":"19","name":"T-shirt","description":"Men's T-shirt","image":"img\/men\/a5.jpg","price":"46","price_off":"42","count":"3","category_id":"2","created_at":"2022-09-02 20:23:07","updated_at":"2022-09-02 20:23:07"},
+{"id":"6","name":"dress","description":"wemon's short summer pink dress","image":"img\/wemon\/k6.jpg","price":"78","price_off":"67","count":"12","category_id":"1","created_at":"2022-07-20 20:40:12","updated_at":"2022-07-20 20:40:12"},
+{"id":"7","name":"Blouse","description":"wemon's stained blouse","image":"img\/wemon\/c1.jpg","price":"46","price_off":"38","count":"8","category_id":"1","created_at":"2022-07-20 20:43:46","updated_at":"2022-07-20 20:43:46"},
+{"id":"17","name":"Men's set","description":"dark blue shirt and jeans set","image":"img\/men\/a3.jpg","price":"150","price_off":"130","count":"2","category_id":"2","created_at":"2022-09-02 20:23:07","updated_at":"2022-09-02 20:23:07"},
+{"id":"8","name":"Blouse","description":"wemon's long blouse","image":"img\/wemon\/c2.jpg","price":"41","price_off":"36","count":"4","category_id":"1","created_at":"2022-07-20 20:49:26","updated_at":"2022-07-20 20:49:26"},
+{"id":"16","name":"Hoodie","description":"Boy's hoodie","image":"img\/men\/a2.jpg","price":"60","price_off":"57","count":"3","category_id":"2","created_at":"2022-09-02 20:23:07","updated_at":"2022-09-02 20:23:07"},
+{"id":"9","name":"T-shirt","description":"wemon's stained T-shirt","image":"img\/wemon\/c3.jpg","price":"52","price_off":"43","count":"2","category_id":"1","created_at":"2022-07-20 21:08:04","updated_at":"2022-07-20 21:08:04"},
+{"id":"10","name":"dress","description":"wemon's long dress","image":"img\/wemon\/k8.jpg","price":"74","price_off":"65","count":"6","category_id":"1","created_at":"2022-07-21 17:39:41","updated_at":"2022-07-21 17:39:41"},
+{"id":"11","name":"manto","description":"wemon's black manto","image":"img\/wemon\/k9.jpg","price":"35","price_off":"31","count":"3","category_id":"1","created_at":"2022-07-21 17:42:27","updated_at":"2022-07-21 17:42:27"},
+{"id":"15","name":"Men's set","description":"black coat,white T-shirt with jeans","image":"img\/men\/a1.jpg","price":"200","price_off":"170","count":"5","category_id":"2","created_at":"2022-09-02 20:23:07","updated_at":"2022-09-02 20:23:07"},
+{"id":"12","name":"Blouse","description":"White blouse","image":"img\/wemon\/k10.jpg","price":"35","price_off":"30","count":"5","category_id":"1","created_at":"2022-07-21 17:45:23","updated_at":"2022-07-21 17:45:23"},
+{"id":"18","name":"T-shirt","description":"Men's T-shirt","image":"img\/men\/a4.jpg","price":"50","price_off":"47","count":"6","category_id":"2","created_at":"2022-09-02 20:23:07","updated_at":"2022-09-02 20:23:07"},
+{"id":"14","name":"T-shirt","description":"T-shirt blackpink model","image":"img\/wemon\/k11.jpg","price":"30","price_off":"28","count":"1","category_id":"1","created_at":"2022-08-08 14:15:34","updated_at":"2022-08-08 14:15:34"},
+{"id":"24","name":"kid's set","description":"Girly top and skirt set","image":"img\/kids\/a4.jpg","price":"56","price_off":"47","count":"4","category_id":"3","created_at":"2022-09-12 18:01:26","updated_at":"2022-09-12 18:01:26"},
+{"id":"25","name":"kid's set","description":"boy's T-shirt and short set","image":"img\/kids\/a5.jpg","price":"48","price_off":"43","count":"6","category_id":"3","created_at":"2022-09-12 18:01:26","updated_at":"2022-09-12 18:01:26"},
+{"id":"26","name":"kid's set","description":"boy's T-shirt and short set","image":"img\/kids\/a6.jpg","price":"54","price_off":"46","count":"2","category_id":"3","created_at":"2022-09-12 18:01:26","updated_at":"2022-09-12 18:01:26"},
+{"id":"27","name":"kid's set","description":"boy's T-shirt and short set","image":"img\/kids\/a7.jpg","price":"38","price_off":"30","count":"4","category_id":"3","created_at":"2022-09-12 18:14:34","updated_at":"2022-09-12 18:14:34"}
+]
+}
+]
