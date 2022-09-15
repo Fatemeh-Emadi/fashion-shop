@@ -1,6 +1,7 @@
 # fashion-shop
 
-![screencapture-127-0-0-1-8000-category-2-2022-09-04-00_02_22](https://user-images.githubusercontent.com/79381313/190516328-14c2ded4-f8f0-4df6-9aaa-5a84caa7b70e.png)
+![screencapture-127-0-0-1-8000-2022-09-16-02_29_22 (1)](https://user-images.githubusercontent.com/79381313/190517235-752114ba-4a74-4ff5-b721-d0c90a36d2ff.png)
+
 
 
 ![screencapture-127-0-0-1-8000-shop-2022-09-16-02_30_16](https://user-images.githubusercontent.com/79381313/190516437-4504880d-9d16-4b49-81bf-63e4f1990112.png)
