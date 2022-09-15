@@ -3,12 +3,20 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Models\Category;
+use App\Models\Product;
 
 class HomeController extends Controller
 {
   function index()
   {
-      return view('index');
+    $products=Product::all()->sortBy('updated_at')->take(3);
+    $categories=Category::all();
+   
+      return view('index',[
+        "products"=>$products,
+         "categories"=>$categories
+         ]);
   }
   
   function shop_single()

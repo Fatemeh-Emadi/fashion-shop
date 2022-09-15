@@ -1,0 +1,126 @@
+/*
+
+TemplateMo 559 Zay Shop
+
+https://templatemo.com/tm-559-zay-shop
+
+---------------------------------------------
+Table of contents
+------------------------------------------------
+1. Typography
+2. General
+3. Nav
+4. Hero Carousel
+5. Accordion
+6. Shop
+7. Product
+8. Carousel Hero
+9. Carousel Brand
+10. Services
+11. Contact map
+12. Footer
+13. Small devices (landscape phones, 576px and up)
+14. Medium devices (tablets, 768px and up)
+15. Large devices (desktops, 992px and up)
+16. Extra large devices (large desktops, 1200px and up)
+--------------------------------------------- */
+
+
+
+
+/* Typography */
+body, ul, li, p, a, label, input, div {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px !important;
+  font-weight: 300 !important;
+}
+.a{
+  color: rgb(31, 30, 30);
+}
+.h1 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 48px !important;
+  font-weight: 200 !important;
+}
+.h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px !important;
+  font-weight: 300;
+}
+.h3 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px !important;
+  color: rgb(31, 30, 30);
+}
+/* General */
+.logo { font-weight: 500 !important;
+color:#fa8e97 !important;
+font-size: 40px !important;}
+.text-warning {  color: yellow !important;}
+.text-muted { color: #bcbcbc !important;}
+.text-success { color: #59ab6e !important;}
+.text-light { color: #e6ecf5 !important;}
+.icon-color{ color: #e6ecf5 !important;}
+.bg-black { background-color: #4C5D70 !important;}
+.bg-light { background-color: #EAFBFF !important;}
+.bg-dark { background-color: #7F8FA3 !important;}
+.bg-success { background-color: #59ab6e !important;}
+.btn-success {
+  background-color: #fa8e97 !important;
+  border-color: #fa8e97 !important;
+}
+
+
+
+
+/* Footer */
+#footer1 a { color: #dcdde1;}
+#footer1 a:hover { color: #ff93a5;}
+#footer1 ul.footer-link-list li { padding-top: 10px;}
+#footer1 ul.footer-icons li {
+  width: 2.6em;
+  height: 2.6em;
+  line-height: 2.6em;
+}
+#footer1 ul.footer-icons li:hover {
+  background-color: #cfd6e1;
+  transition: .5s;
+}
+#footer1 ul.footer-icons li:hover i {
+  color: #212934;
+  transition: .5s;
+}
+#footer1 .border-light { border-color: #2d343f !important;}
+/*
+// Extra small devices (portrait phones, less than 576px)
+// No media query since this is the default in Bootstrap
+*/
+/* Small devices (landscape phones, 576px and up)*/
+.product-wap .h3, .product-wap li, .product-wap i, .product-wap p {
+  font-size: 12px !important;
+}
+.product-wap .product-color-dot {
+  width: 6px;
+  height: 6px;
+}
+
+
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+   .navbar-nav {max-width: 450px;}
+ }
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+   .navbar-nav {max-width: 550px;}
+
+  .product-wap .h3, .product-wap li, .product-wap i, .product-wap p {font-size: 18px !important;}
+  .product-wap .product-color-dot {
+    width: 12px;
+    height: 12px;
+  }
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {}

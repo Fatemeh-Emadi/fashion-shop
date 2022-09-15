@@ -27,26 +27,30 @@
                         </li>
                     </ul>
                 </div>
-                <div class="navbar align-self-center d-flex">
-                    <div class="d-lg-none flex-sm-fill mt-3 mb-4 col-7 col-sm-auto pr-3">
-                        <div class="input-group">
-                            <input type="text" class="form-control" id="inputMobileSearch" placeholder="Search ...">
-                            <div class="input-group-text">
-                                <i class="fa fa-fw fa-search"></i>
-                            </div>
-                        </div>
-                    </div>
-                    <a class="nav-icon d-none d-lg-inline" href="#" data-bs-toggle="modal" data-bs-target="#templatemo_search">
-                        <i class="fa fa-fw fa-search text-dark mr-2"></i>
+                <div class="navbar align-self-center d-flex ">
+                   
+                    
+                    <a class="nav-icon position-relative text-decoration-none " href="/cart">
+                        <i class="fa fa-fw fa-cart-arrow-down text-secondary mr-1 "></i>
+                          
                     </a>
-                    <a class="nav-icon position-relative text-decoration-none" href="#">
-                        <i class="fa fa-fw fa-cart-arrow-down text-dark mr-1"></i>
-
-                    </a>
-                    <a class="nav-icon position-relative text-decoration-none" href="#">
-                        <i class="fa fa-fw fa-user text-dark mr-3"></i>
+                    @guest
+          <a href="{{url('/login')}}" class="btn btn-outline-secondary ms-3 px-2">
+          <span >
+                <i class="fas fa-user"></i>
+                login
+                
+                </span>
+                </a>
+                @endguest
+                @auth
+                <a href="{{url('/logout')}}" class="btn btn-outline-secondary ms-3 px-2">
+          <span>
           
-                    </a>
+                logout
+                </span>
+                </a>
+                @endauth
                 </div>
             </div>
 

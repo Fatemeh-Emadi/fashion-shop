@@ -1,7 +1,7 @@
 @extends('template')
 @section('content')
     <!-- Start Content Page -->
-    <div class="container-fluid bg-light py-5">
+    <div class="container-fluid text-light py-5" style="background-color: #fa8e97;">
         <div class="col-md-6 m-auto text-center">
             <h1 class="h1">Contact Us</h1>
             <p>
