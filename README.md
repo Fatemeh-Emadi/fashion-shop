@@ -4,6 +4,10 @@
 
 
 
+![screencapture-127-0-0-1-8000-category-2-2022-09-16-02_44_42](https://user-images.githubusercontent.com/79381313/190518174-02c90877-7d67-4ffb-939a-13e508a39b5a.png)
+
+
+
 ![screencapture-127-0-0-1-8000-shop-2022-09-16-02_30_16](https://user-images.githubusercontent.com/79381313/190516437-4504880d-9d16-4b49-81bf-63e4f1990112.png)
 
 
